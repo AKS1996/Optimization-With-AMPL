@@ -1,0 +1,10 @@
+data;
+
+set objects = o1, o2, o3;
+
+param capacity = 5;
+
+param:  value    weight:=
+o1      8        1
+o2      6        3
+o3      5        5;
