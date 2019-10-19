@@ -11,3 +11,10 @@ This implementation uses [KNITRO](https://www.artelys.com/solvers/knitro/) solve
 ## Test cases included
 + **TNK** - [Tanaka et al, 1995](https://doi.org/10.1038/375659a0)
 + **Comet** - [Deb at al, 2005](https://doi.org/10.1162/106365605774666895)
+
+## Installing dependencies
+Install packages pyomo and matplotlib.
+```
+pip install pyomo matplotlib
+```
+Refer [this link](http://www.pyomo.org/installation) for pyomo third party dependencies.
