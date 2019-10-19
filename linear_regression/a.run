@@ -1,6 +1,0 @@
-model a.mod;
-read {i in 1..T} ({j in 1..k} x[i,j], y[i]) < a.dat;
-option substout 1;
-solve;
-display err;
-quit;
